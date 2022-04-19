@@ -13,7 +13,6 @@ The framework uses:
 3. TestNG
 4. ExtentReport
 5. Log4j
-6. SimpleJavaMail
 
 Steps to create test cases:
 ----
